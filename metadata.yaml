@@ -1,5 +1,5 @@
 _repo: The-First-1000-Euler-Numbers_2584
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QA'
 - !lcsh 'Mathematics'
+- GITenberg
 title: The First 1000 Euler Numbers
 url: http://www.gutenberg.org/ebooks/2584
